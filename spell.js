@@ -1,5 +1,3 @@
-const { elements } = requre("./elements")
-
 function check(input) {
   if (input.length > 0) {
     for (let element of elements) {
@@ -19,6 +17,14 @@ function check(input) {
         }
 
       }
+    }
+  }
+}
+
+function lookup(symbol){
+  for(let element of elements ){
+    if(symbol == element.symbol){
+      return element
     }
   }
 }
