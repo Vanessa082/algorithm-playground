@@ -20,5 +20,5 @@ function createElementUi(element){
     document.createAttribute("div")
   ]
 
-  nameEl.classL
+  nameEl.classList
 }
