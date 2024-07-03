@@ -27,3 +27,6 @@ const ronsBirthday = (arr, d, m) => {
 }
 
 console.log(ronsBirthday(arr, 4, 2));
+
+// time complexity o(4)
+// space complexity o(4)
