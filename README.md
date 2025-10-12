@@ -144,10 +144,5 @@ Make sure to set the same environment variables in your hosting platform.
 
 ---
 
-### 🧾 License
-
 Feel free to modify and use this template in your own projects.
 
----
-
-Would you like me to include **copy-paste badges** (e.g. React + Tailwind + Appwrite) and a **short project banner** at the top for GitHub presentation?
