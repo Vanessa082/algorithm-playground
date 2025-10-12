@@ -1,4 +1,4 @@
-import { Client, Databases, Query, type QueryTypesList, ID } from 'appwrite';
+import { Client, Databases, Query, ID } from 'appwrite';
 import { environmentVariables } from './env';
 import type { Movie } from './types';
 
